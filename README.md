@@ -10,5 +10,5 @@ I'm just at the beginning of the road but already excited for all the informatio
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denizsulmaz/)
-[![Mail Badge](https://img.shields.io/badge/denizsulmaz0@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:denizsulmaz0@gmail.com)](mailto:denizsulmaz0@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:denizsulmaz0@gmail.com)](mailto:denizsulmaz0@gmail.com)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://denizsulmaz.medium.com)

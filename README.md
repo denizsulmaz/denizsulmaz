@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=denizsulmaz&show_icons=true&theme=highcontrast">
 
-<!--
-**denizsulmaz/denizsulmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deniz Sulmaz
 
-Here are some ideas to get you started:
+I am a high school student.
+For now, I am dealing with web development and graphic design </br>
+I want to study software engineering and break some taboos in the areas where I am active. </br>
+I plan to combine the fields of entrepreneurship and innovation in my own software and design fields. </br>
+I'm just at the beginning of the road but already excited for all the information I will learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denizsulmaz/)
+[![Mail Badge](https://img.shields.io/badge/denizsulmaz0@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:denizsulmaz0@gmail.com)](mailto:buse.denizsulmaz0@gmail.com)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://denizsulmaz.medium.com)

@@ -2,7 +2,6 @@
 
 # Hi, I'm Deniz Sulmaz
 
-I am a high school student. </br>
 For now, I am dealing with web development and graphic design </br>
 I want to study software engineering and break some taboos in the areas where I am active. </br>
 I plan to combine the fields of entrepreneurship and innovation in my own software and design fields. </br>

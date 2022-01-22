@@ -2,10 +2,14 @@
 
 # Hi, I'm Deniz Sulmaz
 
-For now, I am dealing with web development and graphic design </br>
-I want to study software engineering and break some taboos in the areas where I am active. </br>
-I plan to combine the fields of entrepreneurship and innovation in my own software and design fields. </br>
-I'm just at the beginning of the road but already excited for all the information I will learn.
+I'm Deniz Sulmaz. I am a young entrepreneur who develops himself in the fields of science, technology and design. </br>
+I love researching and learning new information. I also enjoy producing content while doing these.  </br>
+I give importance to socialization and hobbies and take care to take time for myself.  </br>
+Music, Sports and meditation always have an important place in my life, this way I can keep my mind clearer and more creative.  </br>
+ </br>
+You can access the details of my career, education, etc. on my LinkedIn account.
+
+
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denizsulmaz/)

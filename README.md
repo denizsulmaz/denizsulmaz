@@ -1,8 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=denizsulmaz&show_icons=true&theme=highcontrast">
-
 # Hi, I'm Deniz Sulmaz
-
-</br></br></br></br>
+</br></br>
 You can access the details of my career, education, etc. on my LinkedIn account.
 
 
